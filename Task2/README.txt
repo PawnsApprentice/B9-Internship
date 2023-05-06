@@ -13,3 +13,5 @@ Instructions:-
 - Compile the program using the following command: mingw32-make. This will generate an executable file called recur.exe.
 - To run the program, type the following command: recur.exe.
 - The program should now execute and display the output on the console.
+
+For the analysis of the three approaches used, please refer to the Analysis.pdf file. 
